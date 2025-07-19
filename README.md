@@ -1,4 +1,4 @@
-# 🚀 AWS Infrastructure with Terraform
+#  AWS Infrastructure with Terraform
 
 This project sets up a basic AWS infrastructure using **Terraform**. It includes:
 
@@ -11,7 +11,7 @@ This project sets up a basic AWS infrastructure using **Terraform**. It includes
 
 
 
-## ✅ How to Use
+##  How to Use
 
 1. **Install Terraform**: [terraform.io/downloads](https://terraform.io/downloads)
 2. **Clone this repo**:
